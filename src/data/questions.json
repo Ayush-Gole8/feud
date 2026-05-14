@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Name the top 10 tech companies in the world.",
+    "answers": [
+      {"text": "Apple", "points": 35},
+      {"text": "Microsoft", "points": 30},
+      {"text": "Google", "points": 25},
+      {"text": "Amazon", "points": 20},
+      {"text": "Meta", "points": 15},
+      {"text": "Samsung", "points": 10},
+      {"text": "NVIDIA", "points": 10},
+      {"text": "Intel", "points": 5},
+      {"text": "IBM", "points": 5},
+      {"text": "Oracle", "points": 5}
+    ]
+  }
+]
